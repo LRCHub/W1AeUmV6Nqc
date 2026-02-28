@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Rocket de tobu",
+  "base_artist": "Buzz Brats",
+  "createdAt": "2026-02-28T12:55:47.570730Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rocket de tobu",
+      "artist": "Buzz Brats",
+      "has_synced": false,
+      "path": "select/pl_01_Rocket_de_tobu_Buzz_Brats.txt"
+    }
+  ]
+}
